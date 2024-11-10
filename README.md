@@ -13,7 +13,13 @@
 Descreva os objetivos do seu projeto e como ele funciona. 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+<!--Adicione 3 ou mais screenshots do projeto em funcionamento.
+-->
+
+![1377 resolvida](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code_Questions/blob/master/questao_1377/1377_Submission.png)
+
+![1298 resolvida](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code_Questions/blob/master/questao_1298/1298-estatistica.png)
+
 
 ## Instalação 
 **Linguagem**: Python3<br>
