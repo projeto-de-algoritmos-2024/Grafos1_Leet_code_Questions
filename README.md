@@ -9,8 +9,13 @@
 | 21/061850  |  Henrique Azevedo Batalha |
 | 21/1039690  |  Raphael Mendes da Silva |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+## Questões
+| Questão | Dificuldade |
+| ------- | ----------- |
+| [1377. Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds/description/?envType=problem-list-v2&envId=graph&difficulty=HARD) | Difícil |
+| [1298. Maximum Candies You Can Get from Boxes](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/description/) | Difícil |
+|  |  |
+
 
 ## Screenshots
 <!--Adicione 3 ou mais screenshots do projeto em funcionamento.
