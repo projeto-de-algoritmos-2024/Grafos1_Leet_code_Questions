@@ -8,6 +8,12 @@
 
 https://leetcode.com/problems/frog-position-after-t-seconds/description/?envType=problem-list-v2&envId=graph&difficulty=HARD
 
+**Link do vídeo**
+
+[![Assista ao vídeo](https://img.youtube.com/vi/bFDLERPj2Lw/0.jpg)](https://www.youtube.com/watch?v=bFDLERPj2Lw)
+
+https://www.youtube.com/watch?v=bFDLERPj2Lw
+
 ### Cópia do Enunciado:
 
 You have n boxes labeled from 0 to n - 1. You are given four arrays: status, candies, keys, and containedBoxes where:
