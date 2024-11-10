@@ -16,15 +16,21 @@ Descreva os objetivos do seu projeto e como ele funciona.
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python3<br>
+
+Clone o repositório.
+
+```
+git clone https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code_Questions.git
+```
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Execute os arquivos python individualmente. Os arquivos foram escritos no `Python 3.10.12` e portanto essa é versão recomendada para sua execução.
 
+<!--
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+-->
 
 
 
