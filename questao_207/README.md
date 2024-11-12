@@ -10,9 +10,9 @@ https://leetcode.com/problems/course-schedule/description/
 
 **Link do vídeo**
 
+[![vídeo](https://img.youtube.com/vi/c0RyLDTleJg/0.jpg)](https://www.youtube.com/watch?v=c0RyLDTleJg)
 
-
-
+https://www.youtube.com/watch?v=c0RyLDTleJg
 
 ### Cópia do Enunciado:
 
