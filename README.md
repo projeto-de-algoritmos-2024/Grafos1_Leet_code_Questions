@@ -25,6 +25,7 @@
 
 ![1298 resolvida](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code_Questions/blob/master/questao_1298/1298-estatistica.png)
 
+![207 resolvida](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code_Questions/blob/master/questao_207/207_Submission.png)
 
 ## Instalação 
 **Linguagem**: Python3<br>
